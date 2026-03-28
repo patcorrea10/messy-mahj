@@ -1,0 +1,21 @@
+{
+  "name": "Messy Mahj",
+  "short_name": "Messy Mahj",
+  "description": "Siamese Mahjong by Pat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#075985",
+  "theme_color": "#075985",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/mahjong/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/mahjong/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

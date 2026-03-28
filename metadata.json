@@ -1,0 +1,5 @@
+{
+  "name": "Siamese Mahjong Simulator",
+  "description": "A 2-player 'Siamese' American Mahjong simulator with 152-tile deck and dual-rack management.",
+  "requestFramePermissions": []
+}
